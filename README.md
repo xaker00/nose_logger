@@ -1,0 +1,1 @@
+Simple plugin for nose to log resource leaks.
